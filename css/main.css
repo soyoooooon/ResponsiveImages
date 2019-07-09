@@ -1,0 +1,10 @@
+
+/*don't ever do this looks like crap*/
+
+/*img { width: 100%; } 
+
+/* make sure the image can't scale past its natural dimensions */
+
+img, embed, object, video { max-width: 100%; }
+/* always always always always*/
+
